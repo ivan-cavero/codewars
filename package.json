@@ -1,0 +1,27 @@
+{
+  "name": "codewars-ivancavero",
+  "version": "1.0.0",
+  "description": "Resolved test from CodeWars by IvanCavero.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "devDependencies": {
+    "eslint": "8.14.0",
+    "eslint-plugin-immutable": "1.0.0",
+    "jest": "27.5.1"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivan-cavero/codewars.git"
+  },
+  "author": "Ivan Cavero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivan-cavero/codewars/issues"
+  },
+  "homepage": "https://github.com/ivan-cavero/codewars#readme"
+}
