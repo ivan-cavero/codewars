@@ -4,12 +4,14 @@
   "description": "Resolved test from CodeWars by IvanCavero.",
   "main": "index.js",
   "scripts": {
-    "test": "jest --verbose"
+    "test": "jest --verbose",
+    "start": "nodemon"
   },
   "devDependencies": {
     "eslint": "8.14.0",
     "eslint-plugin-immutable": "1.0.0",
-    "jest": "27.5.1"
+    "jest": "27.5.1",
+    "nodemon": "2.0.16"
   },
   "jest": {
     "testEnvironment": "node"
